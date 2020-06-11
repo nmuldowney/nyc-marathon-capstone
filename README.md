@@ -8,9 +8,9 @@ I have been a runner for over 18 years  and it is a huge part of who I am and wh
 Data Questions:
 
 How do the NYC marathon results vary over the last 5 years?
-Are there trends in age group and gender throughout the years?
-Is there a relationship between result times and wealth of an area?
-Is there a correlation with weather on race day and performance?
+	- Are there trends in age group and gender throughout the years?
+ 	- Is there a relationship between result times and wealth of an area?
+	- Is there a correlation with weather on race day and performance?
 
 
 Known Issues and Challenges:
@@ -22,7 +22,7 @@ Data Sources:
 
   - New York City Marathon results:  https://www.nyrr.org/tcsnycmarathon/results/race-results
   - World GDP: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
-  - Weather:
+  - Weather: https://w2.weather.gov/climate/index.php?wfo=okx 
 
 
 Link to Tableau Dashboard:
