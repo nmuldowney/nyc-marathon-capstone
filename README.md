@@ -21,8 +21,9 @@ I have run into some data issues as far as gathering all of the NYC marathon res
 Data Sources:
 
   - New York City Marathon results:  https://www.nyrr.org/tcsnycmarathon/results/race-results
-  - World GDP: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
-  - Weather: https://w2.weather.gov/climate/index.php?wfo=okx 
+  - World GDP: https://data.worldbank.org
+  - Weather: https://w2.weather.gov
+	     https://www.ncdc.noaa.gov
 
 
 Link to Tableau Dashboard:
