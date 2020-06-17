@@ -8,14 +8,25 @@ I have been a runner for over 18 years  and it is a huge part of who I am and wh
 ### Data Questions:
 
 1. How do the NYC marathon results vary over the last 5 years?
-2. Are there trends in age group and gender throughout the years?
-3. Is there a relationship between result times and wealth of an area (GDP Per Capita)?
-4. Is there a correlation with weather on race day and performance?
+2. Are there trends in age group and gender with performance?
+3. Is there a correlation between weather on race day and performance?
+4. Is there a relationship between runners' finish times and GDP Per Capita of their hometown?
 
 
 ### Known Issues and Challenges:
 
 I have run into some data issues as far as gathering all of the NYC marathon results. After web scraping the results for the last 5 years, I was only able to obtain results for the first 10k runners in each of these races. This race has over 50k runners per year. I decided to do my analysis using the first 10k finishers of each race.
+
+
+### Tools Used: 
+
+* Python
+* Tableau
+* Visual Studio Code
+* Git
+* Google Slides
+* Excel
+
 
 
 ### Data Sources:
