@@ -13,6 +13,7 @@ I have been a runner for over 18 years  and it is a huge part of who I am and wh
 4. Is there a relationship between runners' finish times and GDP Per Capita of their hometown?
 
 
+
 ### Known Issues and Challenges:
 
 I have run into some data issues as far as gathering all of the NYC marathon results. After web scraping the results for the last 5 years, I was only able to obtain results for the first 10k runners in each of these races. This race has over 50k runners per year. I decided to do my analysis using the first 10k finishers of each race.
@@ -39,3 +40,4 @@ I have run into some data issues as far as gathering all of the NYC marathon res
 
 
 ### Link to Tableau Dashboard:
+  https://public.tableau.com/profile/nicole.muldowney#!/vizhome/NYCMarathonAnalysis-CapstoneProject/Story1
