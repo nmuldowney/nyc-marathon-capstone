@@ -121,8 +121,6 @@ venv.bak/
 # Rope project settings
 .ropeproject
 
-# Maps
-/maps
 
 # mkdocs documentation
 /site
