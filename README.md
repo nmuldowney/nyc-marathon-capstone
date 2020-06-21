@@ -33,7 +33,7 @@ Another challenge I ran into was that my GDP per capita data had some null value
 
 Here you can see a graph of the average finish times grouped by sex. There are steadily faster finish times for both male and female runners over the last five years. In addition, there is a consistent spead of about 6-9 minutes between the two sexes each year. 
 
-![Average Finish Time By Sex](/maps/avg_time_by_sex.png)
+![Average Finish Time By Sex](/images/avg_time_by_sex.png)
 
 
 ### Tools Used: 
