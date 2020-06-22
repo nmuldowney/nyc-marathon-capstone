@@ -17,7 +17,7 @@ I have been a runner for over 18 years  and it is a huge part of who I am and wh
 ### Data Questions:
 
 1. How do the NYC marathon results vary over the last 5 years?
-2. Are there trends in age group and gender with performance?
+2. Are there trends in age group and sexes with performance?
 3. Is there a correlation between weather on race day and performance?
 4. Is there a relationship between runners' finish times and GDP Per Capita of their hometown?
 
