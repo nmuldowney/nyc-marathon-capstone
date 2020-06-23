@@ -58,6 +58,9 @@ Here you can see a graph of the average finish times grouped by sex. There are s
   - Weather: https://w2.weather.gov
 	     https://www.ncdc.noaa.gov
 
+### Other Sources:
+ - Age Grading: https://www.runnersworld.com/advanced/a20794116/a-guide-to-age-grading/
+
 
 
 ### Tableau Dashboard:
