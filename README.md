@@ -1,4 +1,6 @@
-## New York City Marathon Analysis - Capstone Project
+## New York City Marathon Analysis
+### Nashville Software School Data Analytics Bootcamp - Capstone Project
+
 
 ## Table of Contents
 * [Motivation](#Motivation)
@@ -11,12 +13,12 @@
 
 ### Motivation:
 
-I have been a runner for over 18 years  and it is a huge part of who I am and what has motivated me throughout my life. I ran the NYC marathon 4 years ago and want to analyze the results data over the last 5 years to see how the results vary over time. In addition, I will see if  there are any correlations with age groups and gender. I will also explore more behind the results and pull in other datasets to uncover insights about the runners and potential trends that correlate with the weather on race day and the runners' home country's economy.
+I have been a runner for over 18 years  and it is a huge part of who I am and what has motivated me throughout my life. I ran the NYC marathon in 2016 and want to analyze the results data over the last five years to see how the results vary over time. In addition, I will see if  there are any correlations with age groups and sex. I will also explore more behind the results and pull in other datasets to uncover insights about the runners and potential trends that correlate with the weather on race day and the runners' home country's economy.
 
 
 ### Data Questions:
 
-1. How do the NYC marathon results vary over the last 5 years?
+1. How do the NYC marathon results vary over the last five years?
 2. Are there trends in age group and sexes with performance?
 3. Is there a correlation between weather on race day and performance?
 4. Is there a relationship between runners' finish times and GDP Per Capita of their hometown?
@@ -25,7 +27,7 @@ I have been a runner for over 18 years  and it is a huge part of who I am and wh
 
 ### Known Issues and Challenges:
 
-I have run into some data issues as far as gathering all of the NYC marathon results. After web scraping the results for the last 5 years, I was only able to obtain results for the first 10k runners in each of these races. There was an api limitation on the website. This race has over 50k runners per year. I decided to do my analysis using the first 10k finishers of each race per year.
+I have run into some data issues as far as gathering all of the NYC marathon results. After web scraping the results for the last five years, I was only able to obtain results for the first 10k runners in each of these races. There was an api limitation on the website. This race has over 50k runners per year. I decided to do my analysis using the first 10k finishers of each race per year.
 Another challenge I ran into was that my GDP per capita data had some null values. I filled these with the most recent valid observation in the data for the given country.
 
 
@@ -38,12 +40,14 @@ Here you can see a graph of the average finish times grouped by sex. There are s
 
 ### Tools Used: 
 
-* Python - BeautifulSoup, Pandas
-* Tableau
-* Visual Studio Code
-* Git/Github
-* Google Slides
-* Excel
+* `Python` - Version 3.7.3 (BeautifulSoup, Pandas)
+* `Jupyter Notebook` - Version 6.0.0
+* `Tableau` - Version 2020.1.2
+* `Excel` - Version 16.38
+* `Visual Studio Code` - Version 1.44.2
+* `Github`
+* `Google Slides`
+* `Loom` 
 
 
 
@@ -58,3 +62,6 @@ Here you can see a graph of the average finish times grouped by sex. There are s
 
 ### Tableau Dashboard:
   https://public.tableau.com/profile/nicole.muldowney#!/vizhome/NYCMarathonAnalysis-CapstoneProject/Story1
+
+  
+  #### Demo Day: 06/25/2020 (Via Zoom)
